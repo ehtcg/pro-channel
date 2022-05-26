@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -65,3 +66,10 @@ public class Main {
 		System.out.println("Goodbye!");
 	}// end main
 }// end JDBCExample
+=======
+public class Main{
+public static void main(String[] args){
+System.out.println("Hello World by HCFCIT");
+}
+}
+>>>>>>> 1005672 (First commit)
